@@ -1,0 +1,9 @@
+- <h1>, <h2> ... doivent toujours être dans l'ordre. Jamais de <h2> avant qu'un <h1> soit déclaré.
+
+- Jamais deux <p> imbriquées
+
+- On ne peut pas imbriquer des <h1> <h2> etc. dans <p>
+
+- Toujours fermer toutes les balises enfants avant de fermer une balise parente.
+
+ 

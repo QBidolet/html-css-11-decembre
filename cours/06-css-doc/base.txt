@@ -1,0 +1,44 @@
+Le café
+Sources
+        
+Une source courante de caféine est le  caféier, la graine à partir de laquelle on produit  du café.
+
+
+La culture du café est très développée dans de nombreux pays à climat tropical d'Amérique, d'Afrique et d'Asie, dans des plantations qui sont cultivées pour les marchés d'exportation du commerce international. Il représente souvent une contribution majeure pour l'économie des
+pays producteurs (économie du café). Les caféiers sont des arbustes des régions tropicales du genre Coffea, de la famille des Rubiacées.
+
+
+Les espèces Coffea arabica (historiquement la plus anciennement cultivée,  75 % de la production environ) et Coffea canephora (ou caféier robusta), sont celles dont les fruits servent à la préparation de la boisson. 
+D'autres espèces du genre Coffea ont été testées à cette fin ou sont encore localement utilisées, mais n'ont jamais connu de grande diffusion : Coffea  liberica ou l'hybride arabica x robusta (l'arabusta)
+
+
+Caféine : les recommandations de l'Anses
+
+Dans le cadre de son évaluation des risques liés à la consommation de boissons dites « énergisantes », l'Anses s'est intéressée au rôle de la caféine dans l'apparition des effets indésirables qui lui ont été signalés. 
+Au vu des résultats de son travail, l'Agence recommande :      
+    • de modérer la consommation de boissons caféinées ;                
+    • de préférer les boissons contenant naturellement de la caféine (thé, café, ...) 
+            aux boissons artificiellement enrichis (boissons énergisantes...) ;                
+    • de ne pas associer alcool et caféine ;                
+    • d'éviter d'associer caféine et activités physiques ;                
+    • d'être particulièrement vigilants vis-à-vis des apports en caféine chez les femmes enceintes et allaitantes, les enfants et adolescents, les personnes sensibles aux effets de la caféine ou présentant certaines pathologies (troubles cardio-vasculaires, 
+    psychiatriques et neurologiques, insuffisance rénale, maladies hépatiques sévères…).
+                
+
+Tous les textes sont disponibles selon les termes de la GNU.
+
+
+Créez une page HTML avec une structure de base (html, head, body).
+À la fin du texte, ajoutez un lien vers la licence GNU en utilisant la balise <a>.
+
+Stylisation CSS :
+
+Appliquez une couleur de fond à votre page. (background-color)
+Changez la couleur et la taille (font-size) de votre titre principal (<h1>).
+Stylisez votre sous-titre (<h2>) pour le différencier du texte principal.
+Enlever le soulignement du lien GNU (text-decoration).
+
+Liens :
+https://fr.wikipedia.org/wiki/Caf%C3%A9ier
+https://fr.wikipedia.org/wiki/Caf%C3%A9
+https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Licence_de_documentation_libre_GNU

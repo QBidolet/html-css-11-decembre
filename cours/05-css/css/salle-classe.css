@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: gray;
+}
+
+p {
+    color: rgb(2, 36, 88);
+}
+
+p.introduction {
+    color: red;
+}
+
+a {
+    color: red;
+}
+
+.gras {
+    font-weight: bold;
+}

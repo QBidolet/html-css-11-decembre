@@ -1,0 +1,22 @@
+.block {
+    width: 23%;
+    text-align: center;
+    background-color: aqua;
+    height: 50px;
+}
+
+.container {
+    width: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.none {
+    float: none;
+}

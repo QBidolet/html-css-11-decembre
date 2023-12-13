@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    /* Attention, les propriétés ci-dessous ne sont actives que si le display est à flex. */
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+.block {
+    background-color: yellow;
+}
+
+.block-1 {
+    flex-grow: 1;
+}
+
+.block-2 {
+    flex-grow: 1;
+}
+
+.block-3 {
+    flex-grow: 2;
+}
+
+.block-4 {
+    flex-grow: 1;
+}
+
+.block-5 {
+    flex-grow: 1;
+}

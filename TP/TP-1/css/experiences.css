@@ -16,7 +16,7 @@ a {
     transition: color 0.3s;
 }
 
-a:hover {
+a:hover{
     color: #0055aa;
     background-color: #d4d4d4;
 }

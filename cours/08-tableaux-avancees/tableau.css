@@ -1,0 +1,14 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+caption {
+    padding: 10px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 12px;
+}

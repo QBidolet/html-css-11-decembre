@@ -1,0 +1,48 @@
+html {
+    border: 2px solid lightgray;
+    margin: 5px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+h1 {
+    color: #D90011;
+    font-size: 40px;
+}
+
+td,
+th {
+    border: 1px solid;
+    /* width: 150px; */
+    padding: 10px;
+}
+
+.team {
+    background: rgb(140, 215, 215);
+}
+
+
+h1,
+img {
+    display: inline;
+}
+
+img {
+    width: 40px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+p {
+    font-size: 25px;
+}
